@@ -25,7 +25,7 @@ Options:
 ```
 
 # Getting Started
-Using __tabasco__ is as easy as running ```tabasco start &``` in a daemon and ```tabasco monitor <my_code_directory>```
+Using __tabasco__ is as easy as running ```tabasco start &``` as a daemon and ```tabasco monitor <my_code_directory>``` from a shell.
 
 # Issues
 Take a look in our __issues__ tab!
